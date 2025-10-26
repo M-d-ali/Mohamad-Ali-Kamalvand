@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://m-a-kamalvand.github.io/sitemap.xml
+Sitemap: https://Mohamad-Ali-Kamalvand.github.io/sitemap.xml
